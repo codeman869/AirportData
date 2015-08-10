@@ -55,6 +55,10 @@ d3.json("js/final.json",function(error,graph){
             
             d3.select("#tooltip").style("top", ypos + dY + "px")
                 .style("left", xpos + dX + "px").classed("hidden", false);
+        }).on("mouseout",function(d){
+         
+            d3.select("#tooltip").classed("hidden",true);
+            
         });
     
     var node = svg.selectAll(".airport").data(graph.airports).enter().append("g")
