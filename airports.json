@@ -1,0 +1,312 @@
+{"name":"JFK","city":"New York, NY"}
+{"name":"LAX","city":"Los Angeles, CA"}
+{"name":"DFW","city":"Dallas/Fort Worth, TX"}
+{"name":"OGG","city":"Kahului, HI"}
+{"name":"HNL","city":"Honolulu, HI"}
+{"name":"SFO","city":"San Francisco, CA"}
+{"name":"ATL","city":"Atlanta, GA"}
+{"name":"BOS","city":"Boston, MA"}
+{"name":"ORD","city":"Chicago, IL"}
+{"name":"DEN","city":"Denver, CO"}
+{"name":"STL","city":"St. Louis, MO"}
+{"name":"DTW","city":"Detroit, MI"}
+{"name":"ONT","city":"Ontario, CA"}
+{"name":"MIA","city":"Miami, FL"}
+{"name":"LAS","city":"Las Vegas, NV"}
+{"name":"SEA","city":"Seattle, WA"}
+{"name":"PHX","city":"Phoenix, AZ"}
+{"name":"IAD","city":"Washington, DC"}
+{"name":"JAX","city":"Jacksonville, FL"}
+{"name":"TPA","city":"Tampa, FL"}
+{"name":"MFE","city":"Mission/McAllen/Edinburg, TX"}
+{"name":"PHL","city":"Philadelphia, PA"}
+{"name":"HDN","city":"Hayden, CO"}
+{"name":"SAN","city":"San Diego, CA"}
+{"name":"DCA","city":"Washington, DC"}
+{"name":"SJC","city":"San Jose, CA"}
+{"name":"SLC","city":"Salt Lake City, UT"}
+{"name":"KOA","city":"Kona, HI"}
+{"name":"SJU","city":"San Juan, PR"}
+{"name":"PBI","city":"West Palm Beach/Palm Beach, FL"}
+{"name":"CLT","city":"Charlotte, NC"}
+{"name":"MSY","city":"New Orleans, LA"}
+{"name":"MCO","city":"Orlando, FL"}
+{"name":"MSP","city":"Minneapolis, MN"}
+{"name":"JAC","city":"Jackson, WY"}
+{"name":"CLE","city":"Cleveland, OH"}
+{"name":"TUS","city":"Tucson, AZ"}
+{"name":"PDX","city":"Portland, OR"}
+{"name":"HOU","city":"Houston, TX"}
+{"name":"IAH","city":"Houston, TX"}
+{"name":"SNA","city":"Santa Ana, CA"}
+{"name":"RSW","city":"Fort Myers, FL"}
+{"name":"COS","city":"Colorado Springs, CO"}
+{"name":"MKE","city":"Milwaukee, WI"}
+{"name":"LIH","city":"Lihue, HI"}
+{"name":"MCI","city":"Kansas City, MO"}
+{"name":"BDL","city":"Hartford, CT"}
+{"name":"AUS","city":"Austin, TX"}
+{"name":"LGA","city":"New York, NY"}
+{"name":"FLL","city":"Fort Lauderdale, FL"}
+{"name":"TUL","city":"Tulsa, OK"}
+{"name":"BWI","city":"Baltimore, MD"}
+{"name":"IND","city":"Indianapolis, IN"}
+{"name":"CMH","city":"Columbus, OH"}
+{"name":"SAT","city":"San Antonio, TX"}
+{"name":"ELP","city":"El Paso, TX"}
+{"name":"ORF","city":"Norfolk, VA"}
+{"name":"EWR","city":"Newark, NJ"}
+{"name":"RDU","city":"Raleigh/Durham, NC"}
+{"name":"ABQ","city":"Albuquerque, NM"}
+{"name":"OKC","city":"Oklahoma City, OK"}
+{"name":"DAY","city":"Dayton, OH"}
+{"name":"LIT","city":"Little Rock, AR"}
+{"name":"EGE","city":"Eagle, CO"}
+{"name":"STT","city":"Charlotte Amalie, VI"}
+{"name":"DSM","city":"Des Moines, IA"}
+{"name":"ICT","city":"Wichita, KS"}
+{"name":"BNA","city":"Nashville, TN"}
+{"name":"MEM","city":"Memphis, TN"}
+{"name":"RNO","city":"Reno, NV"}
+{"name":"SMF","city":"Sacramento, CA"}
+{"name":"PIT","city":"Pittsburgh, PA"}
+{"name":"PSP","city":"Palm Springs, CA"}
+{"name":"SDF","city":"Louisville, KY"}
+{"name":"BHM","city":"Birmingham, AL"}
+{"name":"FAT","city":"Fresno, CA"}
+{"name":"OMA","city":"Omaha, NE"}
+{"name":"STX","city":"Christiansted, VI"}
+{"name":"XNA","city":"Fayetteville, AR"}
+{"name":"LBB","city":"Lubbock, TX"}
+{"name":"HSV","city":"Huntsville, AL"}
+{"name":"PNS","city":"Pensacola, FL"}
+{"name":"RIC","city":"Richmond, VA"}
+{"name":"OAK","city":"Oakland, CA"}
+{"name":"BUR","city":"Burbank, CA"}
+{"name":"BLI","city":"Bellingham, WA"}
+{"name":"GEG","city":"Spokane, WA"}
+{"name":"ADQ","city":"Kodiak, AK"}
+{"name":"ANC","city":"Anchorage, AK"}
+{"name":"BET","city":"Bethel, AK"}
+{"name":"SCC","city":"Deadhorse, AK"}
+{"name":"BRW","city":"Barrow, AK"}
+{"name":"FAI","city":"Fairbanks, AK"}
+{"name":"KTN","city":"Ketchikan, AK"}
+{"name":"JNU","city":"Juneau, AK"}
+{"name":"CDV","city":"Cordova, AK"}
+{"name":"YAK","city":"Yakutat, AK"}
+{"name":"SIT","city":"Sitka, AK"}
+{"name":"WRG","city":"Wrangell, AK"}
+{"name":"PSG","city":"Petersburg, AK"}
+{"name":"OME","city":"Nome, AK"}
+{"name":"OTZ","city":"Kotzebue, AK"}
+{"name":"ADK","city":"Adak Island, AK"}
+{"name":"BUF","city":"Buffalo, NY"}
+{"name":"ROC","city":"Rochester, NY"}
+{"name":"BTV","city":"Burlington, VT"}
+{"name":"PWM","city":"Portland, ME"}
+{"name":"LGB","city":"Long Beach, CA"}
+{"name":"BQN","city":"Aguadilla, PR"}
+{"name":"PVD","city":"Providence, RI"}
+{"name":"SRQ","city":"Sarasota/Bradenton, FL"}
+{"name":"SYR","city":"Syracuse, NY"}
+{"name":"SAV","city":"Savannah, GA"}
+{"name":"HPN","city":"White Plains, NY"}
+{"name":"SWF","city":"Newburgh/Poughkeepsie, NY"}
+{"name":"CHS","city":"Charleston, SC"}
+{"name":"ORH","city":"Worcester, MA"}
+{"name":"PSE","city":"Ponce, PR"}
+{"name":"BZN","city":"Bozeman, MT"}
+{"name":"MSN","city":"Madison, WI"}
+{"name":"BIL","city":"Billings, MT"}
+{"name":"MOB","city":"Mobile, AL"}
+{"name":"GRR","city":"Grand Rapids, MI"}
+{"name":"MDW","city":"Chicago, IL"}
+{"name":"TYS","city":"Knoxville, TN"}
+{"name":"ECP","city":"Panama City, FL"}
+{"name":"SHV","city":"Shreveport, LA"}
+{"name":"CRW","city":"Charleston/Dunbar, WV"}
+{"name":"MHT","city":"Manchester, NH"}
+{"name":"GSP","city":"Greer, SC"}
+{"name":"CVG","city":"Cincinnati, OH"}
+{"name":"GRB","city":"Green Bay, WI"}
+{"name":"JAN","city":"Jackson/Vicksburg, MS"}
+{"name":"FNT","city":"Flint, MI"}
+{"name":"GNV","city":"Gainesville, FL"}
+{"name":"TLH","city":"Tallahassee, FL"}
+{"name":"ABE","city":"Allentown/Bethlehem/Easton, PA"}
+{"name":"AVL","city":"Asheville, NC"}
+{"name":"DAB","city":"Daytona Beach, FL"}
+{"name":"AGS","city":"Augusta, GA"}
+{"name":"LEX","city":"Lexington, KY"}
+{"name":"RAP","city":"Rapid City, SD"}
+{"name":"CAE","city":"Columbia, SC"}
+{"name":"CAK","city":"Akron, OH"}
+{"name":"MDT","city":"Harrisburg, PA"}
+{"name":"DAL","city":"Dallas, TX"}
+{"name":"FSD","city":"Sioux Falls, SD"}
+{"name":"MYR","city":"Myrtle Beach, SC"}
+{"name":"SGF","city":"Springfield, MO"}
+{"name":"VPS","city":"Valparaiso, FL"}
+{"name":"LFT","city":"Lafayette, LA"}
+{"name":"EVV","city":"Evansville, IN"}
+{"name":"TRI","city":"Bristol/Johnson City/Kingsport, TN"}
+{"name":"BOI","city":"Boise, ID"}
+{"name":"ALB","city":"Albany, NY"}
+{"name":"GSO","city":"Greensboro/High Point, NC"}
+{"name":"MLB","city":"Melbourne, FL"}
+{"name":"GPT","city":"Gulfport/Biloxi, MS"}
+{"name":"EYW","city":"Key West, FL"}
+{"name":"TVC","city":"Traverse City, MI"}
+{"name":"FAR","city":"Fargo, ND"}
+{"name":"ATW","city":"Appleton, WI"}
+{"name":"CHO","city":"Charlottesville, VA"}
+{"name":"DLH","city":"Duluth, MN"}
+{"name":"BIS","city":"Bismarck/Mandan, ND"}
+{"name":"MSO","city":"Missoula, MT"}
+{"name":"CHA","city":"Chattanooga, TN"}
+{"name":"AVP","city":"Scranton/Wilkes-Barre, PA"}
+{"name":"ILM","city":"Wilmington, NC"}
+{"name":"ROA","city":"Roanoke, VA"}
+{"name":"FAY","city":"Fayetteville, NC"}
+{"name":"BTR","city":"Baton Rouge, LA"}
+{"name":"MTJ","city":"Montrose/Delta, CO"}
+{"name":"GUC","city":"Gunnison, CO"}
+{"name":"BRO","city":"Brownsville, TX"}
+{"name":"MLU","city":"Monroe, LA"}
+{"name":"SJT","city":"San Angelo, TX"}
+{"name":"CRP","city":"Corpus Christi, TX"}
+{"name":"CLL","city":"College Station/Bryan, TX"}
+{"name":"MLI","city":"Moline, IL"}
+{"name":"TYR","city":"Tyler, TX"}
+{"name":"LAW","city":"Lawton/Fort Sill, OK"}
+{"name":"SPS","city":"Wichita Falls, TX"}
+{"name":"MEI","city":"Meridian, MS"}
+{"name":"PIB","city":"Hattiesburg/Laurel, MS"}
+{"name":"GRK","city":"Killeen, TX"}
+{"name":"BPT","city":"Beaumont/Port Arthur, TX"}
+{"name":"GCK","city":"Garden City, KS"}
+{"name":"LCH","city":"Lake Charles, LA"}
+{"name":"LNK","city":"Lincoln, NE"}
+{"name":"AEX","city":"Alexandria, LA"}
+{"name":"MAF","city":"Midland/Odessa, TX"}
+{"name":"ERI","city":"Erie, PA"}
+{"name":"LRD","city":"Laredo, TX"}
+{"name":"DIK","city":"Dickinson, ND"}
+{"name":"GJT","city":"Grand Junction, CO"}
+{"name":"SCE","city":"State College, PA"}
+{"name":"LAN","city":"Lansing, MI"}
+{"name":"AMA","city":"Amarillo, TX"}
+{"name":"PIA","city":"Peoria, IL"}
+{"name":"HRL","city":"Harlingen/San Benito, TX"}
+{"name":"CID","city":"Cedar Rapids/Iowa City, IA"}
+{"name":"ISN","city":"Williston, ND"}
+{"name":"SBN","city":"South Bend, IN"}
+{"name":"CWA","city":"Mosinee, WI"}
+{"name":"HOB","city":"Hobbs, NM"}
+{"name":"SAF","city":"Santa Fe, NM"}
+{"name":"PHF","city":"Newport News/Williamsburg, VA"}
+{"name":"FSM","city":"Fort Smith, AR"}
+{"name":"RST","city":"Rochester, MN"}
+{"name":"MGM","city":"Montgomery, AL"}
+{"name":"VLD","city":"Valdosta, GA"}
+{"name":"BMI","city":"Bloomington/Normal, IL"}
+{"name":"MBS","city":"Saginaw/Bay City/Midland, MI"}
+{"name":"BGR","city":"Bangor, ME"}
+{"name":"BQK","city":"Brunswick, GA"}
+{"name":"DHN","city":"Dothan, AL"}
+{"name":"ELM","city":"Elmira/Corning, NY"}
+{"name":"FWA","city":"Fort Wayne, IN"}
+{"name":"GTR","city":"Columbus, MS"}
+{"name":"AZO","city":"Kalamazoo, MI"}
+{"name":"CSG","city":"Columbus, GA"}
+{"name":"OAJ","city":"Jacksonville/Camp Lejeune, NC"}
+{"name":"ABY","city":"Albany, GA"}
+{"name":"EWN","city":"New Bern/Morehead/Beaufort, NC"}
+{"name":"MOT","city":"Minot, ND"}
+{"name":"MCN","city":"Macon, GA"}
+{"name":"ACY","city":"Atlantic City, NJ"}
+{"name":"TTN","city":"Trenton, NJ"}
+{"name":"ILG","city":"Wilmington, DE"}
+{"name":"UST","city":"St. Augustine, FL"}
+{"name":"SBA","city":"Santa Barbara, CA"}
+{"name":"IDA","city":"Idaho Falls, ID"}
+{"name":"ITO","city":"Hilo, HI"}
+{"name":"ROW","city":"Roswell, NM"}
+{"name":"DBQ","city":"Dubuque, IA"}
+{"name":"DRO","city":"Durango, CO"}
+{"name":"MQT","city":"Marquette, MI"}
+{"name":"ASE","city":"Aspen, CO"}
+{"name":"ACT","city":"Waco, TX"}
+{"name":"ABI","city":"Abilene, TX"}
+{"name":"COU","city":"Columbia, MO"}
+{"name":"TOL","city":"Toledo, OH"}
+{"name":"LSE","city":"La Crosse, WI"}
+{"name":"MHK","city":"Manhattan/Ft. Riley, KS"}
+{"name":"GGG","city":"Longview, TX"}
+{"name":"ALO","city":"Waterloo, IA"}
+{"name":"TXK","city":"Texarkana, AR"}
+{"name":"CMI","city":"Champaign/Urbana, IL"}
+{"name":"JLN","city":"Joplin, MO"}
+{"name":"GRI","city":"Grand Island, NE"}
+{"name":"SPI","city":"Springfield, IL"}
+{"name":"EUG","city":"Eugene, OR"}
+{"name":"SUX","city":"Sioux City, IA"}
+{"name":"RDM","city":"Bend/Redmond, OR"}
+{"name":"CIC","city":"Chico, CA"}
+{"name":"GCC","city":"Gillette, WY"}
+{"name":"GFK","city":"Grand Forks, ND"}
+{"name":"SMX","city":"Santa Maria, CA"}
+{"name":"SBP","city":"San Luis Obispo, CA"}
+{"name":"SGU","city":"St. George, UT"}
+{"name":"EAU","city":"Eau Claire, WI"}
+{"name":"HYS","city":"Hays, KS"}
+{"name":"PAH","city":"Paducah, KY"}
+{"name":"ACV","city":"Arcata/Eureka, CA"}
+{"name":"MRY","city":"Monterey, CA"}
+{"name":"RKS","city":"Rock Springs, WY"}
+{"name":"CMX","city":"Hancock/Houghton, MI"}
+{"name":"RDD","city":"Redding, CA"}
+{"name":"PUB","city":"Pueblo, CO"}
+{"name":"PSC","city":"Pasco/Kennewick/Richland, WA"}
+{"name":"FCA","city":"Kalispell, MT"}
+{"name":"CLD","city":"Carlsbad, CA"}
+{"name":"YUM","city":"Yuma, AZ"}
+{"name":"LAR","city":"Laramie, WY"}
+{"name":"FLG","city":"Flagstaff, AZ"}
+{"name":"BFL","city":"Bakersfield, CA"}
+{"name":"MKG","city":"Muskegon, MI"}
+{"name":"TWF","city":"Twin Falls, ID"}
+{"name":"CNY","city":"Moab, UT"}
+{"name":"EKO","city":"Elko, NV"}
+{"name":"CPR","city":"Casper, WY"}
+{"name":"PIH","city":"Pocatello, ID"}
+{"name":"JMS","city":"Jamestown, ND"}
+{"name":"IMT","city":"Iron Mountain/Kingsfd, MI"}
+{"name":"BRD","city":"Brainerd, MN"}
+{"name":"INL","city":"International Falls, MN"}
+{"name":"GTF","city":"Great Falls, MT"}
+{"name":"HLN","city":"Helena, MT"}
+{"name":"LWS","city":"Lewiston, ID"}
+{"name":"CIU","city":"Sault Ste. Marie, MI"}
+{"name":"MFR","city":"Medford, OR"}
+{"name":"ESC","city":"Escanaba, MI"}
+{"name":"PLN","city":"Pellston, MI"}
+{"name":"SUN","city":"Sun Valley/Hailey/Ketchum, ID"}
+{"name":"MMH","city":"Mammoth Lakes, CA"}
+{"name":"STC","city":"St. Cloud, MN"}
+{"name":"DVL","city":"Devils Lake, ND"}
+{"name":"CEC","city":"Crescent City, CA"}
+{"name":"OTH","city":"North Bend/Coos Bay, OR"}
+{"name":"COD","city":"Cody, WY"}
+{"name":"ABR","city":"Aberdeen, SD"}
+{"name":"PPG","city":"Pago Pago, TT"}
+{"name":"BJI","city":"Bemidji, MN"}
+{"name":"BTM","city":"Butte, MT"}
+{"name":"CDC","city":"Cedar City, UT"}
+{"name":"GUM","city":"Guam, TT"}
+{"name":"APN","city":"Alpena, MI"}
+{"name":"VEL","city":"Vernal, UT"}
+{"name":"HIB","city":"Hibbing, MN"}
+{"name":"RHI","city":"Rhinelander, WI"}
+{"name":"ISP","city":"Islip, NY"}
