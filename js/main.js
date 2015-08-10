@@ -87,6 +87,8 @@ d3.json("js/final.json",function(error,graph){
             
         });
     
+ 
+    
     function update(flightValue) {
         hiddenFlights = flightValue;
         d3.selectAll(".flight").classed("hidden",function(d){
